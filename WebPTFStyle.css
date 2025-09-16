@@ -157,7 +157,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("emperor\ with\ wolves\ wallpaper\ lowered\ brightness.JPG") no-repeat center;
+    background: url("otherblackbg.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
